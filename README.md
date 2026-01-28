@@ -14,7 +14,7 @@ Use git clone to download the document in GitHub
 Git
 
 ##Installation Instructiob
-Git clone https://github.com/kemuntoneema07-stack/Assignments.git
+gh repo clone kemuntoneema07-stack/Photography-Website
 
 #Live link
 [Git] ( https://kemuntoneema07-stack.github.io/Photography-Website/)
