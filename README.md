@@ -17,7 +17,7 @@ Git
 Git clone https://github.com/kemuntoneema07-stack/Assignments.git
 
 #Live link
-[Git] (https://kemuntoneema07-stack.github.io)
+[Git] ( https://kemuntoneema07-stack.github.io/Photography-Website/)
 
 ##Technologies used
 HTML
